@@ -4,7 +4,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-dequicy-52a715273/)
 
 ![Maicon GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiconDequicy&show_icons=true&theme=dracula)
-![Status](https://github-readme-stats.vercel.app/api/top-langs/username=MaiconDequicy&layout=compact&langs_count=16&theme=dracula)
+
+<div>
+    <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/username=MaiconDequicy&layout=compact&langs_count=16&theme=dracula />
+</div>
 ## Tecnologias
 
 <div style="display: inline_block"><br/>
