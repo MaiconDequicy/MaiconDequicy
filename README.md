@@ -4,13 +4,6 @@
 
 ---
 
-## 🧑‍💻 Sobre Mim  
-🎓 Estudante de Engenharia de Software apaixonado por tecnologia e desenvolvimento de software.  
-💡 Sempre buscando aprender algo novo e explorar diferentes linguagens e frameworks.  
-🚀 Atualmente focado em Kotlin e Flutter para desenvolvimento mobile.
-
----
-
 ## 📊 GitHub Stats  
 
 ![Maicon GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiconDequicy&show_icons=true&theme=dracula)  
