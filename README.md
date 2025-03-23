@@ -1,5 +1,11 @@
 ### Olá! Eu sou o Maicon Dequicy 🙃  
 
+ **Estudante de Graduação** em Engenharia de Software no **ICOMP-UFAM**
+
+**Técnico em Informática** pelo **IFAM Campus Parintins**
+
+**Apaixonado por café, livros e música!**
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-dequicy-52a715273/)  
 
 ---
@@ -45,7 +51,4 @@
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </div>
 
----
-
-✉️ **Quer falar comigo?** Me chame no [LinkedIn](https://www.linkedin.com/in/maicon-dequicy-52a715273/) ou veja meus projetos no GitHub!  
 
