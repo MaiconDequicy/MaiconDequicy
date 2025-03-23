@@ -5,7 +5,7 @@
 
 ![Maicon GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiconDequicy&show_icons=true&theme=dracula)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDequicy&layout=compact&theme=dracula&card_width=455)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDequicy&layout=compact&theme=dracula&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
 
