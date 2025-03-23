@@ -15,7 +15,7 @@
 
 ![Maicon GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiconDequicy&show_icons=true&theme=dracula)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDequicy&layout=compact&theme=dracula&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDequicy&layout=compact&theme=dracula&card_width=468)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
