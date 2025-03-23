@@ -4,7 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-dequicy-52a715273/)
 
 ![Maicon GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiconDequicy&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDequicy&theme=dracula&layout=compact&langs_count=8&card_width=520)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDequicy&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
