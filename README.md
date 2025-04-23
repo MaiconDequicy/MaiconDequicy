@@ -1,4 +1,4 @@
-### Olá! Eu sou o Maicon Dequicy 🙃  
+### Olá! Eu sou o Maicon Dequicy 
 
  **Estudante de Graduação** em Engenharia de Software no **ICOMP-UFAM**
 
